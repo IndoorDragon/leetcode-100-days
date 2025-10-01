@@ -1,6 +1,6 @@
 // Day 9:
 // Difficulty: Easy
-// Link: https://leetcode.com/problems/
+// Link: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
 // Date: October 1, 2025
 // Time Complexity: O(n*m)
 // Space Complexity: O(1)
